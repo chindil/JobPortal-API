@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stx.Shared.Api", "Stx.Shared.Api\Stx.Shared.Api.csproj", "{DCE42F00-E8C0-4382-9AD3-7993618121C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stx.Api.Hrm", "Stx.Api.Hrm\Stx.Api.Hrm.csproj", "{A1143C50-3EB6-4E55-926D-081493042F2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE42F00-E8C0-4382-9AD3-7993618121C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE42F00-E8C0-4382-9AD3-7993618121C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE42F00-E8C0-4382-9AD3-7993618121C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE42F00-E8C0-4382-9AD3-7993618121C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1143C50-3EB6-4E55-926D-081493042F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1143C50-3EB6-4E55-926D-081493042F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1143C50-3EB6-4E55-926D-081493042F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1143C50-3EB6-4E55-926D-081493042F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A247CD72-B52F-4874-A38A-F2CC22E0D07F}
+	EndGlobalSection
+EndGlobal
